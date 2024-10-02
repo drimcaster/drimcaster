@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drimcaster
+- 👋 Hi, I’m Jose.
 - 👀 I’m interested.. in mysteries...
 - 🌱 I’m currently learning... various softwares and make some upgrades.
 - 💞️ I’m looking to collaborate... people who are fond on system developments.
